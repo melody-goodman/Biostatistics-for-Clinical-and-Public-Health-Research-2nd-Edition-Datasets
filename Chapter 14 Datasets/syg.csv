@@ -1,0 +1,205 @@
+ID,could_defendant_retreat,defendant_pursue,outcome,weapon_victim,initiator,race_victim
+1,yes,yes,0,unarmed,2,2
+2,yes,yes,0,unarmed,1,1
+4,no,no,0,unarmed,1,2
+5,yes,no,1,unarmed,2,1
+6,no,no,0,weapon used,1,2
+7,yes,yes,0,unarmed,2,2
+9,no,no,0,unarmed,2,2
+10,yes,unclear,1,unarmed,3,2
+11,no,no,0,unarmed,1,2
+12,no,no,0,unarmed,1,1
+13,unclear,unclear,0,unarmed,1,1
+14,yes,yes,0,weapon used,1,1
+15,yes,yes,1,unarmed,1,2
+16,yes,yes,0,unarmed,1,2
+18,yes,yes,0,unarmed,2,1
+19,unclear,no,0,weapon used,3,1
+20,no,no,0,unarmed,3,1
+21,unclear,no,0,weapon used,1,1
+22,yes,unclear,0,unarmed,3,2
+24,no,no,0,unarmed,1,2
+25,no,no,0,weapon used,1,1
+26,yes,no,0,weapon used,1,1
+27,unclear,unclear,0,unarmed,1,1
+28,unclear,unclear,1,unarmed,3,1
+29,yes,unclear,0,unarmed,2,1
+30,unclear,unclear,0,unarmed,3,1
+31,yes,no,1,unarmed,2,2
+33,yes,no,0,unarmed,2,1
+34,unclear,no,0,unarmed,3,1
+35,yes,yes,0,unarmed,2,2
+36,yes,yes,1,unarmed,2,2
+37,yes,no,1,unarmed,2,1
+38,unclear,unclear,0,unarmed,2,2
+39,no,no,1,unarmed,2,2
+41,yes,no,0,unarmed,1,1
+42,yes,yes,1,unarmed,2,1
+45,no,no,0,weapon used,1,2
+46,yes,no,1,weapon used,3,1
+47,unclear,unclear,0,weapon used,3,1
+48,unclear,yes,0,weapon used,3,1
+49,yes,yes,0,unarmed,1,2
+51,no,no,0,weapon used,1,1
+52,unclear,no,1,unarmed,3,1
+53,yes,yes,0,unarmed,3,1
+54,yes,yes,1,unarmed,3,2
+55,yes,no,0,weapon used,1,1
+56,unclear,no,0,unarmed,3,2
+57,no,yes,1,unarmed,2,1
+58,yes,yes,1,unarmed,2,1
+59,no,no,1,unarmed,2,2
+60,unclear,unclear,0,unarmed,3,2
+61,yes,yes,1,unarmed,2,2
+62,yes,unclear,1,unarmed,3,2
+63,yes,no,1,unarmed,1,2
+64,yes,no,0,weapon used,3,2
+65,yes,unclear,0,weapon used,3,1
+66,unclear,unclear,0,weapon used,3,1
+67,unclear,unclear,0,unarmed,3,2
+68,yes,no,0,unarmed,1,2
+69,yes,no,1,unarmed,1,2
+70,yes,yes,1,unarmed,2,2
+71,yes,yes,1,weapon used,2,2
+72,yes,unclear,1,unarmed,3,1
+73,yes,yes,1,unarmed,2,1
+74,unclear,unclear,1,unarmed,3,2
+75,yes,yes,0,weapon used,1,1
+76,unclear,no,0,unarmed,1,1
+77,unclear,no,1,unarmed,3,2
+78,yes,yes,1,unarmed,3,2
+80,yes,no,0,unarmed,1,1
+83,yes,yes,0,unarmed,2,2
+86,yes,no,1,unarmed,1,2
+87,yes,yes,0,unarmed,3,1
+89,unclear,yes,0,unarmed,2,1
+90,unclear,no,0,unarmed,1,2
+91,yes,no,0,unarmed,1,1
+93,yes,yes,1,unarmed,2,2
+94,yes,yes,1,unarmed,2,2
+95,yes,unclear,0,weapon used,3,1
+96,unclear,no,0,weapon used,2,1
+97,no,no,0,unarmed,1,2
+98,no,no,0,weapon used,1,2
+99,yes,yes,1,unarmed,2,2
+100,yes,no,1,unarmed,3,2
+101,yes,yes,1,unarmed,3,1
+102,yes,no,1,unarmed,2,1
+103,yes,no,0,unarmed,2,1
+105,unclear,unclear,0,unarmed,3,2
+106,unclear,no,0,unarmed,2,2
+107,unclear,unclear,0,unarmed,3,2
+108,yes,yes,1,unarmed,2,1
+109,unclear,unclear,1,unarmed,3,2
+110,yes,no,1,unarmed,1,1
+111,unclear,unclear,1,weapon used,3,2
+112,unclear,unclear,0,unarmed,3,1
+113,unclear,no,0,weapon used,1,1
+114,unclear,unclear,1,unarmed,3,2
+115,unclear,unclear,1,weapon used,3,1
+116,yes,unclear,0,unarmed,1,2
+117,yes,yes,1,unarmed,2,2
+118,no,no,0,unarmed,1,2
+119,yes,no,0,unarmed,1,2
+120,unclear,no,0,unarmed,1,2
+121,yes,no,0,unarmed,1,2
+123,yes,no,1,unarmed,1,2
+124,unclear,no,1,unarmed,3,2
+125,yes,no,0,unarmed,1,1
+126,yes,yes,0,unarmed,1,2
+127,yes,yes,0,unarmed,1,2
+129,no,no,0,unarmed,1,2
+130,yes,yes,0,weapon used,3,2
+133,unclear,no,0,unarmed,1,2
+134,yes,yes,1,weapon used,1,2
+135,yes,no,0,unarmed,2,1
+136,unclear,unclear,1,unarmed,3,1
+137,no,yes,1,unarmed,3,2
+138,unclear,unclear,0,weapon used,3,1
+139,no,no,0,weapon used,1,1
+141,unclear,no,1,unarmed,3,1
+142,yes,yes,0,unarmed,3,1
+143,yes,no,0,unarmed,1,2
+144,yes,yes,1,unarmed,2,2
+145,yes,no,1,unarmed,3,2
+146,no,no,0,weapon used,1,1
+147,yes,no,0,weapon used,1,2
+149,yes,no,1,unarmed,2,2
+150,no,unclear,0,unarmed,1,2
+151,unclear,unclear,1,unarmed,3,2
+152,unclear,no,1,weapon used,3,2
+153,yes,yes,1,unarmed,1,1
+154,unclear,unclear,0,unarmed,1,2
+155,yes,yes,0,weapon used,1,1
+156,yes,yes,1,unarmed,1,2
+157,no,no,0,weapon used,1,1
+158,yes,no,0,unarmed,1,1
+159,unclear,no,1,unarmed,3,2
+160,yes,yes,0,weapon used,1,1
+161,yes,no,1,unarmed,2,2
+162,unclear,yes,0,unarmed,1,1
+163,yes,yes,1,unarmed,2,1
+165,yes,no,1,unarmed,3,2
+166,no,yes,0,unarmed,1,2
+168,yes,no,0,unarmed,1,1
+169,unclear,no,1,weapon used,1,2
+170,unclear,unclear,1,weapon used,3,2
+171,no,no,1,unarmed,3,1
+173,no,no,0,unarmed,3,1
+174,unclear,unclear,0,weapon used,1,1
+176,yes,no,0,unarmed,1,2
+177,yes,yes,0,weapon used,2,1
+178,unclear,no,0,unarmed,1,1
+179,yes,yes,0,unarmed,2,2
+180,yes,no,0,unarmed,1,2
+181,yes,no,0,unarmed,3,2
+182,yes,yes,1,unarmed,2,2
+183,no,no,0,unarmed,1,2
+184,no,no,0,weapon used,1,2
+185,yes,unclear,1,unarmed,3,2
+186,yes,yes,1,weapon used,3,2
+187,yes,no,0,weapon used,1,2
+188,unclear,unclear,0,weapon used,3,2
+191,yes,yes,0,unarmed,1,2
+192,yes,no,0,unarmed,3,2
+193,yes,yes,1,unarmed,3,1
+194,no,no,0,unarmed,1,1
+195,yes,yes,1,unarmed,3,2
+197,yes,no,0,unarmed,1,2
+198,yes,no,0,unarmed,1,2
+199,yes,yes,1,unarmed,2,2
+200,no,no,0,unarmed,1,2
+201,unclear,no,0,unarmed,2,2
+202,yes,no,0,unarmed,1,2
+203,yes,no,0,unarmed,1,2
+204,yes,no,0,weapon used,1,1
+205,yes,no,0,unarmed,1,1
+206,unclear,no,1,unarmed,3,2
+207,yes,no,0,unarmed,3,1
+208,yes,yes,0,unarmed,2,1
+209,unclear,unclear,0,unarmed,3,2
+210,yes,no,0,unarmed,1,1
+211,unclear,unclear,1,unarmed,3,1
+212,unclear,no,1,unarmed,3,2
+213,yes,yes,0,weapon used,3,2
+214,no,no,0,weapon used,3,2
+215,unclear,no,0,unarmed,3,2
+216,yes,yes,1,unarmed,2,1
+217,unclear,no,1,weapon used,3,1
+218,yes,no,0,unarmed,1,2
+221,yes,no,0,unarmed,1,2
+222,no,no,1,unarmed,1,2
+223,yes,yes,0,weapon used,1,2
+224,unclear,no,0,weapon used,3,2
+225,yes,no,1,weapon used,1,2
+226,yes,yes,0,unarmed,3,1
+227,unclear,no,0,unarmed,1,2
+228,yes,unclear,1,unarmed,3,2
+229,no,no,0,unarmed,1,2
+231,unclear,no,0,unarmed,3,2
+232,yes,no,0,weapon used,3,2
+233,no,no,0,unarmed,1,2
+234,yes,no,0,weapon used,3,2
+235,yes,yes,1,unarmed,1,2
+236,yes,yes,0,unarmed,2,1
+237,yes,yes,0,unarmed,2,1
